@@ -6,7 +6,7 @@
 
 A modern Windows GUI application for WireGuard with split tunneling support. Built with WPF and sing-box core.
 
-![App Screenshot](screenshot.png)
+![App Screenshot](main.png)
 
 ## ✨ Features
 
@@ -112,5 +112,6 @@ This tool is for educational purposes. Users are responsible for complying with 
 - Issues: [GitHub Issues](https://github.com/fsystem88/WireGuardTunnel/issues)
 
 ---
+
 
 **Made with ❤️ by fsystem88**
